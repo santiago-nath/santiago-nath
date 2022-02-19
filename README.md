@@ -5,7 +5,8 @@
 Tenho 10 anos de experiência atuando como analista de sistemas, possuo conhecimento consolidado de SQL, ETL e modelagem de banco de dados.
 Trabalhei em contato com clientes para levantamento de requisitos e documentação de sistemas, além de realização de testes unitários.<br>
 Participei de várias provas de conceito (POCs) com soluções de ciência de dados e aprendizado de máquina.<br>
-Atualmente sou estudante da pós-graduação em Engenharia de Dados-PUCMINAS, além de me preparar para certificações de soluções de nuvens Azure e AWS.<br>
+Atualmente sou estudante da pós-graduação em Engenharia de Dados-PUCMINAS, além de me preparar para certificações de soluções de nuvens Azure e AWS.
+<br>
 
 Principais tecnologias/skills usadas ao longo de minha jornada:
 - SQL: Oracle; MySQL; DB2 Data Studio; SQL Server
@@ -15,7 +16,7 @@ Principais tecnologias/skills usadas ao longo de minha jornada:
 - Modelagem de dados
 - Levantamento de Requisitos
 - Documentação de sistemas e regras de negócios
-<br>
+
 Estou em constante aprendizado.
 <br><br>
 
